@@ -337,7 +337,7 @@ nav .fa-solid{
         display: block;
     }
     nav ul{
-        background: #ff004f;
+        background: goldenrod;
         position: fixed;
         top: 0;
         right: -200px;
